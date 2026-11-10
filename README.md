@@ -1,0 +1,2 @@
+# High-performance-approximate-multiplier-design-for-FPGA-platforms
+Approximate multipliers reduce power, delay, and hardware complexity. Accurate MSB and simplified LSB logic improve efficiency. Bias-compensated truncation (Truncate + 2^(k−1)) reduces error. Dual-output LUTs combine AND/OR logic; restricted carry propagation reduces delay. Design improves power, speed, LUT use, and accuracy for FPGA applications.
